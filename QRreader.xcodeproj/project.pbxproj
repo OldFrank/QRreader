@@ -20,11 +20,11 @@
 		3E116EEE1463F6E80096D18F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3E116EF01463F6E80096D18F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3E116EF21463F6E80096D18F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3E116EF61463F6E80096D18F /* QRreader-Info.plist */ = {isa = PBXFileReference; path = "QRreader-Info.plist"; sourceTree = "<group>"; };
+		3E116EF61463F6E80096D18F /* QRreader-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QRreader-Info.plist"; sourceTree = "<group>"; };
 		3E116EF81463F6E80096D18F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3E116EFA1463F6E80096D18F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3E116EFC1463F6E80096D18F /* QRreader-Prefix.pch */ = {isa = PBXFileReference; path = "QRreader-Prefix.pch"; sourceTree = "<group>"; };
-		3E116EFD1463F6E80096D18F /* QRreaderAppDelegate.h */ = {isa = PBXFileReference; path = QRreaderAppDelegate.h; sourceTree = "<group>"; };
+		3E116EFC1463F6E80096D18F /* QRreader-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QRreader-Prefix.pch"; sourceTree = "<group>"; };
+		3E116EFD1463F6E80096D18F /* QRreaderAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QRreaderAppDelegate.h; sourceTree = "<group>"; };
 		3E116EFE1463F6E80096D18F /* QRreaderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QRreaderAppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
